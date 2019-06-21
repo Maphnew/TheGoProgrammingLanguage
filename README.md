@@ -1,14 +1,23 @@
 # TheGoProgrammingLanguage
 
 ## 1장 튜토리얼
+
 1.1 Hello, World
+
 1.2 커맨드라인 인수
+
 1.3 중복 줄 찾기
+
 1.4 애니메이션 GIF
+
 1.5 URL 반입
+
 1.6 URL 동시 반입
+
 1.7 웹 서버
+
 1.8 미진한 부분
+
 
 ## 2장 프로그램 구조
 
