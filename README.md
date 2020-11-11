@@ -5,7 +5,20 @@
 1.1 Hello, World
 
 1.2 커맨드라인 인수
+```go
+package main
 
+import (
+	"fmt"
+	"os"
+	"strings"
+)
+
+func main() {
+	fmt.Println(strings.Join(os.Args[1:], " \n"))
+	fmt.Println(os.Args[1:])
+}
+```
 1.3 중복 줄 찾기
 
 1.4 애니메이션 GIF

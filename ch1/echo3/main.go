@@ -7,5 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Println(strings.Join(os.Args[:], " \n"))
+	fmt.Println(strings.Join(os.Args[1:], " \n"))
+	fmt.Println(os.Args[1:])
 }
